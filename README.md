@@ -11,6 +11,7 @@ A ray-raiding (brute force volume rendering) sample built with WebGPU in Rust [`
 - Multi-pass Compute
 - Reusing Bind Groups and Layouts
 
+
 ## Rooms for Improvement
 - Commenting code
 - Visualizing program architecture
